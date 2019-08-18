@@ -1,0 +1,4 @@
+hibernate\test\TestHibernateEhcache.class
+hibernate\test\dto\EmployeeEntity.class
+hibernate\test\dto\DepartmentEntity.class
+hibernate\test\HibernateUtil.class
